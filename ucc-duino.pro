@@ -1,4 +1,4 @@
-update=mié 02 may 2018 11:37:50 -03
+update=02/05/2018 13:22:04
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,4 +61,4 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=stm32f103
+LibName33=E:/Sala Control/Maple/Marcucci/ucc-duino-master/stm_angosto
