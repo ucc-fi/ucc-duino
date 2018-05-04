@@ -1,0 +1,724 @@
+Información: Leyendo el archivo de lista de redes "C:\Users\Operador\Videos\Documents\GitHub\ucc-duino\ucc-duino.net".
+
+Información: Utilizando referencias para combinar componentes y huellas.
+
+Error: No se ha encontrado para el componente 'U2' la huella 'SOT-223-3Lead_TabPin2' en ninguna librería de la tabla de librerías de huellas.
+
+Información: Comprobando la huella del componente de la red "BT1:/5AEAB981:Battery_Holders:Keystone_1058_1x2032-CoinCell".
+
+Añadiendo del nuevo componente "BT1:/5AEAB981" la huella "Battery_Holders:Keystone_1058_1x2032-CoinCell".
+
+Cambiando del componente "BT1:/5AEAB981" el nombre de la red del pin "1" de "" a "/VBAT".
+
+Cambiando del componente "BT1:/5AEAB981" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "C1:/5AE3C956:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C1:/5AE3C956" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C1:/5AE3C956" el nombre de la red del pin "1" de "" a "Net-(C1-Pad1)".
+
+Cambiando del componente "C1:/5AE3C956" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "C2:/5AE37E43:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C2:/5AE37E43" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C2:/5AE37E43" el nombre de la red del pin "1" de "" a "Net-(C2-Pad1)".
+
+Cambiando del componente "C2:/5AE37E43" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "C3:/5AE37E8B:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C3:/5AE37E8B" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C3:/5AE37E8B" el nombre de la red del pin "1" de "" a "Net-(C3-Pad1)".
+
+Cambiando del componente "C3:/5AE37E8B" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "C4:/5AE41FC7:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C4:/5AE41FC7" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C4:/5AE41FC7" el nombre de la red del pin "1" de "" a "GND".
+
+Cambiando del componente "C4:/5AE41FC7" el nombre de la red del pin "2" de "" a "/OSC1".
+
+Información: Comprobando la huella del componente de la red "C5:/5AE4293D:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C5:/5AE4293D" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C5:/5AE4293D" el nombre de la red del pin "1" de "" a "GND".
+
+Cambiando del componente "C5:/5AE4293D" el nombre de la red del pin "2" de "" a "/OSC2".
+
+Información: Comprobando la huella del componente de la red "C6:/5AE4D9F6:Capacitors_SMD:CP_Elec_4x5.8".
+
+Añadiendo del nuevo componente "C6:/5AE4D9F6" la huella "Capacitors_SMD:CP_Elec_4x5.8".
+
+Cambiando del componente "C6:/5AE4D9F6" el nombre de la red del pin "1" de "" a "/Vin".
+
+Cambiando del componente "C6:/5AE4D9F6" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "C7:/5AE4E2E7:Capacitors_SMD:CP_Elec_4x5.8".
+
+Añadiendo del nuevo componente "C7:/5AE4E2E7" la huella "Capacitors_SMD:CP_Elec_4x5.8".
+
+Cambiando del componente "C7:/5AE4E2E7" el nombre de la red del pin "1" de "" a "VDD".
+
+Cambiando del componente "C7:/5AE4E2E7" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "C8:/5AE9DA5F:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C8:/5AE9DA5F" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C8:/5AE9DA5F" el nombre de la red del pin "1" de "" a "/VDDA".
+
+Cambiando del componente "C8:/5AE9DA5F" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "C9:/5AEA3019:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C9:/5AEA3019" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C9:/5AEA3019" el nombre de la red del pin "1" de "" a "VDD".
+
+Cambiando del componente "C9:/5AEA3019" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "C10:/5AEA347F:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C10:/5AEA347F" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C10:/5AEA347F" el nombre de la red del pin "1" de "" a "VDD".
+
+Cambiando del componente "C10:/5AEA347F" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "C11:/5AEA351C:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C11:/5AEA351C" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C11:/5AEA351C" el nombre de la red del pin "1" de "" a "VDD".
+
+Cambiando del componente "C11:/5AEA351C" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "C12:/5AEA4250:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C12:/5AEA4250" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C12:/5AEA4250" el nombre de la red del pin "1" de "" a "VDD".
+
+Cambiando del componente "C12:/5AEA4250" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "C13:/5AEAD8E1:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C13:/5AEAD8E1" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C13:/5AEAD8E1" el nombre de la red del pin "1" de "" a "GND".
+
+Cambiando del componente "C13:/5AEAD8E1" el nombre de la red del pin "2" de "" a "/21".
+
+Información: Comprobando la huella del componente de la red "C14:/5AEAD8E7:Capacitors_SMD:C_0805".
+
+Añadiendo del nuevo componente "C14:/5AEAD8E7" la huella "Capacitors_SMD:C_0805".
+
+Cambiando del componente "C14:/5AEAD8E7" el nombre de la red del pin "1" de "" a "GND".
+
+Cambiando del componente "C14:/5AEAD8E7" el nombre de la red del pin "2" de "" a "/22".
+
+Información: Comprobando la huella del componente de la red "D1:/5AE49D86:Diodes_SMD:D_SOD-323F".
+
+Añadiendo del nuevo componente "D1:/5AE49D86" la huella "Diodes_SMD:D_SOD-323F".
+
+Cambiando del componente "D1:/5AE49D86" el nombre de la red del pin "1" de "" a "Net-(D1-Pad1)".
+
+Cambiando del componente "D1:/5AE49D86" el nombre de la red del pin "2" de "" a "Net-(D1-Pad2)".
+
+Información: Comprobando la huella del componente de la red "D2:/5AEA16DD:LEDs:LED_0805".
+
+Añadiendo del nuevo componente "D2:/5AEA16DD" la huella "LEDs:LED_0805".
+
+Cambiando del componente "D2:/5AEA16DD" el nombre de la red del pin "2" de "" a "VDD".
+
+Cambiando del componente "D2:/5AEA16DD" el nombre de la red del pin "1" de "" a "Net-(D2-Pad1)".
+
+Información: Comprobando la huella del componente de la red "D3:/5AEB2049:LEDs:LED_0805".
+
+Añadiendo del nuevo componente "D3:/5AEB2049" la huella "LEDs:LED_0805".
+
+Cambiando del componente "D3:/5AEB2049" el nombre de la red del pin "2" de "" a "/13".
+
+Cambiando del componente "D3:/5AEB2049" el nombre de la red del pin "1" de "" a "Net-(D3-Pad1)".
+
+Información: Comprobando la huella del componente de la red "J1:/5AEC7FDF:Connectors_USB:USB_Micro-B_Molex_47346-0001".
+
+Añadiendo del nuevo componente "J1:/5AEC7FDF" la huella "Connectors_USB:USB_Micro-B_Molex_47346-0001".
+
+Cambiando del componente "J1:/5AEC7FDF" el nombre de la red del pin "1" de "" a "VBUS".
+
+Cambiando del componente "J1:/5AEC7FDF" el nombre de la red del pin "2" de "" a "Net-(J1-Pad2)".
+
+Cambiando del componente "J1:/5AEC7FDF" el nombre de la red del pin "3" de "" a "Net-(J1-Pad3)".
+
+Cambiando del componente "J1:/5AEC7FDF" el nombre de la red del pin "4" de "" a "Net-(J1-Pad4)".
+
+Cambiando del componente "J1:/5AEC7FDF" el nombre de la red del pin "5" de "" a "GND".
+
+Cambiando del componente "J1:/5AEC7FDF" el nombre de la red del pin "6" de "" a "GND".
+
+Cambiando del componente "J1:/5AEC7FDF" el nombre de la red del pin "6" de "" a "GND".
+
+Cambiando del componente "J1:/5AEC7FDF" el nombre de la red del pin "6" de "" a "GND".
+
+Cambiando del componente "J1:/5AEC7FDF" el nombre de la red del pin "6" de "" a "GND".
+
+Cambiando del componente "J1:/5AEC7FDF" el nombre de la red del pin "6" de "" a "GND".
+
+Cambiando del componente "J1:/5AEC7FDF" el nombre de la red del pin "6" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "J1-A1:/5AE4381A:Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm".
+
+Añadiendo del nuevo componente "J1-A1:/5AE4381A" la huella "Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm".
+
+Cambiando del componente "J1-A1:/5AE4381A" el nombre de la red del pin "1" de "" a "/0".
+
+Cambiando del componente "J1-A1:/5AE4381A" el nombre de la red del pin "2" de "" a "/1".
+
+Cambiando del componente "J1-A1:/5AE4381A" el nombre de la red del pin "3" de "" a "/2".
+
+Cambiando del componente "J1-A1:/5AE4381A" el nombre de la red del pin "4" de "" a "/3".
+
+Cambiando del componente "J1-A1:/5AE4381A" el nombre de la red del pin "5" de "" a "/4".
+
+Cambiando del componente "J1-A1:/5AE4381A" el nombre de la red del pin "6" de "" a "/5".
+
+Cambiando del componente "J1-A1:/5AE4381A" el nombre de la red del pin "7" de "" a "/6".
+
+Cambiando del componente "J1-A1:/5AE4381A" el nombre de la red del pin "8" de "" a "/7".
+
+Información: Comprobando la huella del componente de la red "J1-B1:/5AE4395D:Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm".
+
+Añadiendo del nuevo componente "J1-B1:/5AE4395D" la huella "Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm".
+
+Cambiando del componente "J1-B1:/5AE4395D" el nombre de la red del pin "1" de "" a "/0".
+
+Cambiando del componente "J1-B1:/5AE4395D" el nombre de la red del pin "2" de "" a "/1".
+
+Cambiando del componente "J1-B1:/5AE4395D" el nombre de la red del pin "3" de "" a "/2".
+
+Cambiando del componente "J1-B1:/5AE4395D" el nombre de la red del pin "4" de "" a "/3".
+
+Cambiando del componente "J1-B1:/5AE4395D" el nombre de la red del pin "5" de "" a "/4".
+
+Cambiando del componente "J1-B1:/5AE4395D" el nombre de la red del pin "6" de "" a "/5".
+
+Cambiando del componente "J1-B1:/5AE4395D" el nombre de la red del pin "7" de "" a "/6".
+
+Cambiando del componente "J1-B1:/5AE4395D" el nombre de la red del pin "8" de "" a "/7".
+
+Información: Comprobando la huella del componente de la red "J2:/5AE453B7:Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm".
+
+Añadiendo del nuevo componente "J2:/5AE453B7" la huella "Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm".
+
+Cambiando del componente "J2:/5AE453B7" el nombre de la red del pin "1" de "" a "/15".
+
+Cambiando del componente "J2:/5AE453B7" el nombre de la red del pin "2" de "" a "/16".
+
+Cambiando del componente "J2:/5AE453B7" el nombre de la red del pin "3" de "" a "/17".
+
+Cambiando del componente "J2:/5AE453B7" el nombre de la red del pin "4" de "" a "/18".
+
+Cambiando del componente "J2:/5AE453B7" el nombre de la red del pin "5" de "" a "/19".
+
+Cambiando del componente "J2:/5AE453B7" el nombre de la red del pin "6" de "" a "/20".
+
+Información: Comprobando la huella del componente de la red "J3:/5AE4A145:Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm".
+
+Añadiendo del nuevo componente "J3:/5AE4A145" la huella "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm".
+
+Cambiando del componente "J3:/5AE4A145" el nombre de la red del pin "1" de "" a "GND".
+
+Cambiando del componente "J3:/5AE4A145" el nombre de la red del pin "2" de "" a "Net-(D1-Pad2)".
+
+Información: Comprobando la huella del componente de la red "J3-A1:/5AE44DDF:Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm".
+
+Añadiendo del nuevo componente "J3-A1:/5AE44DDF" la huella "Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm".
+
+Cambiando del componente "J3-A1:/5AE44DDF" el nombre de la red del pin "1" de "" a "/8".
+
+Cambiando del componente "J3-A1:/5AE44DDF" el nombre de la red del pin "2" de "" a "/9".
+
+Cambiando del componente "J3-A1:/5AE44DDF" el nombre de la red del pin "3" de "" a "/10".
+
+Cambiando del componente "J3-A1:/5AE44DDF" el nombre de la red del pin "4" de "" a "/11".
+
+Cambiando del componente "J3-A1:/5AE44DDF" el nombre de la red del pin "5" de "" a "/12".
+
+Cambiando del componente "J3-A1:/5AE44DDF" el nombre de la red del pin "6" de "" a "/13".
+
+Cambiando del componente "J3-A1:/5AE44DDF" el nombre de la red del pin "7" de "" a "GND".
+
+Cambiando del componente "J3-A1:/5AE44DDF" el nombre de la red del pin "8" de "" a "/14".
+
+Información: Comprobando la huella del componente de la red "J3-B1:/5AE44DE5:Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm".
+
+Añadiendo del nuevo componente "J3-B1:/5AE44DE5" la huella "Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm".
+
+Cambiando del componente "J3-B1:/5AE44DE5" el nombre de la red del pin "1" de "" a "/8".
+
+Cambiando del componente "J3-B1:/5AE44DE5" el nombre de la red del pin "2" de "" a "/9".
+
+Cambiando del componente "J3-B1:/5AE44DE5" el nombre de la red del pin "3" de "" a "/10".
+
+Cambiando del componente "J3-B1:/5AE44DE5" el nombre de la red del pin "4" de "" a "/11".
+
+Cambiando del componente "J3-B1:/5AE44DE5" el nombre de la red del pin "5" de "" a "/12".
+
+Cambiando del componente "J3-B1:/5AE44DE5" el nombre de la red del pin "6" de "" a "/13".
+
+Cambiando del componente "J3-B1:/5AE44DE5" el nombre de la red del pin "7" de "" a "GND".
+
+Cambiando del componente "J3-B1:/5AE44DE5" el nombre de la red del pin "8" de "" a "/14".
+
+Información: Comprobando la huella del componente de la red "J4:/5AE45698:Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm".
+
+Añadiendo del nuevo componente "J4:/5AE45698" la huella "Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm".
+
+Cambiando del componente "J4:/5AE45698" el nombre de la red del pin "1" de "" a "/JTAG-TRST".
+
+Cambiando del componente "J4:/5AE45698" el nombre de la red del pin "2" de "" a "VDD".
+
+Cambiando del componente "J4:/5AE45698" el nombre de la red del pin "3" de "" a "VDD".
+
+Cambiando del componente "J4:/5AE45698" el nombre de la red del pin "4" de "" a "GND".
+
+Cambiando del componente "J4:/5AE45698" el nombre de la red del pin "5" de "" a "GND".
+
+Cambiando del componente "J4:/5AE45698" el nombre de la red del pin "6" de "" a "/Vin".
+
+Información: Comprobando la huella del componente de la red "J5:/5AE49C7B:Pin_Headers:Pin_Header_Straight_2x02_Pitch2.54mm".
+
+Añadiendo del nuevo componente "J5:/5AE49C7B" la huella "Pin_Headers:Pin_Header_Straight_2x02_Pitch2.54mm".
+
+Cambiando del componente "J5:/5AE49C7B" el nombre de la red del pin "1" de "" a "VBUS".
+
+Cambiando del componente "J5:/5AE49C7B" el nombre de la red del pin "2" de "" a "Net-(D1-Pad1)".
+
+Cambiando del componente "J5:/5AE49C7B" el nombre de la red del pin "3" de "" a "/Vin".
+
+Cambiando del componente "J5:/5AE49C7B" el nombre de la red del pin "4" de "" a "/Vin".
+
+Información: Comprobando la huella del componente de la red "J_JTAG1:/5AEB0CC9:Pin_Headers:Pin_Header_Straight_2x04_Pitch2.54mm".
+
+Añadiendo del nuevo componente "J_JTAG1:/5AEB0CC9" la huella "Pin_Headers:Pin_Header_Straight_2x04_Pitch2.54mm".
+
+Cambiando del componente "J_JTAG1:/5AEB0CC9" el nombre de la red del pin "1" de "" a "/JTAG-TRST".
+
+Cambiando del componente "J_JTAG1:/5AEB0CC9" el nombre de la red del pin "2" de "" a "/JTAG-TMS".
+
+Cambiando del componente "J_JTAG1:/5AEB0CC9" el nombre de la red del pin "3" de "" a "/JTAG-TDO".
+
+Cambiando del componente "J_JTAG1:/5AEB0CC9" el nombre de la red del pin "4" de "" a "GND".
+
+Cambiando del componente "J_JTAG1:/5AEB0CC9" el nombre de la red del pin "5" de "" a "/JTAG-TRST".
+
+Cambiando del componente "J_JTAG1:/5AEB0CC9" el nombre de la red del pin "6" de "" a "/JTAG-TCK".
+
+Cambiando del componente "J_JTAG1:/5AEB0CC9" el nombre de la red del pin "7" de "" a "/JTAG-TDI".
+
+Cambiando del componente "J_JTAG1:/5AEB0CC9" el nombre de la red del pin "8" de "" a "VDD".
+
+Información: Comprobando la huella del componente de la red "L1:/5AE9E08C:Inductors_SMD:L_0805".
+
+Añadiendo del nuevo componente "L1:/5AE9E08C" la huella "Inductors_SMD:L_0805".
+
+Cambiando del componente "L1:/5AE9E08C" el nombre de la red del pin "1" de "" a "VDD".
+
+Cambiando del componente "L1:/5AE9E08C" el nombre de la red del pin "2" de "" a "Net-(C1-Pad1)".
+
+Información: Comprobando la huella del componente de la red "L2:/5AE9D8A3:Inductors_SMD:L_0805".
+
+Añadiendo del nuevo componente "L2:/5AE9D8A3" la huella "Inductors_SMD:L_0805".
+
+Cambiando del componente "L2:/5AE9D8A3" el nombre de la red del pin "1" de "" a "Net-(C1-Pad1)".
+
+Cambiando del componente "L2:/5AE9D8A3" el nombre de la red del pin "2" de "" a "/VDDA".
+
+Información: Comprobando la huella del componente de la red "Q1:/5AE382F0:TO_SOT_Packages_SMD:SOT-23".
+
+Añadiendo del nuevo componente "Q1:/5AE382F0" la huella "TO_SOT_Packages_SMD:SOT-23".
+
+Cambiando del componente "Q1:/5AE382F0" el nombre de la red del pin "1" de "" a "Net-(Q1-Pad1)".
+
+Cambiando del componente "Q1:/5AE382F0" el nombre de la red del pin "2" de "" a "Net-(Q1-Pad2)".
+
+Cambiando del componente "Q1:/5AE382F0" el nombre de la red del pin "3" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "Q2:/5AE38391:TO_SOT_Packages_SMD:SOT-23".
+
+Añadiendo del nuevo componente "Q2:/5AE38391" la huella "TO_SOT_Packages_SMD:SOT-23".
+
+Cambiando del componente "Q2:/5AE38391" el nombre de la red del pin "1" de "" a "Net-(Q1-Pad2)".
+
+Cambiando del componente "Q2:/5AE38391" el nombre de la red del pin "2" de "" a "VDD".
+
+Cambiando del componente "Q2:/5AE38391" el nombre de la red del pin "3" de "" a "Net-(Q2-Pad3)".
+
+Información: Comprobando la huella del componente de la red "R1:/5AE37A1D:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R1:/5AE37A1D" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R1:/5AE37A1D" el nombre de la red del pin "1" de "" a "VBUS".
+
+Cambiando del componente "R1:/5AE37A1D" el nombre de la red del pin "2" de "" a "/USB_P".
+
+Información: Comprobando la huella del componente de la red "R2:/5AE37A71:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R2:/5AE37A71" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R2:/5AE37A71" el nombre de la red del pin "1" de "" a "/USB_P".
+
+Cambiando del componente "R2:/5AE37A71" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "R3:/5AE378D3:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R3:/5AE378D3" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R3:/5AE378D3" el nombre de la red del pin "1" de "" a "VDD".
+
+Cambiando del componente "R3:/5AE378D3" el nombre de la red del pin "2" de "" a "/JTAG-TRST".
+
+Información: Comprobando la huella del componente de la red "R4:/5AE37976:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R4:/5AE37976" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R4:/5AE37976" el nombre de la red del pin "1" de "" a "Net-(R4-Pad1)".
+
+Cambiando del componente "R4:/5AE37976" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "R5:/5AE380E8:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R5:/5AE380E8" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R5:/5AE380E8" el nombre de la red del pin "1" de "" a "Net-(Q1-Pad1)".
+
+Cambiando del componente "R5:/5AE380E8" el nombre de la red del pin "2" de "" a "/DISC".
+
+Información: Comprobando la huella del componente de la red "R6:/5AE38151:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R6:/5AE38151" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R6:/5AE38151" el nombre de la red del pin "1" de "" a "VDD".
+
+Cambiando del componente "R6:/5AE38151" el nombre de la red del pin "2" de "" a "Net-(Q1-Pad1)".
+
+Información: Comprobando la huella del componente de la red "R7:/5AE37D08:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R7:/5AE37D08" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R7:/5AE37D08" el nombre de la red del pin "1" de "" a "Net-(C3-Pad1)".
+
+Cambiando del componente "R7:/5AE37D08" el nombre de la red del pin "2" de "" a "Net-(J1-Pad3)".
+
+Información: Comprobando la huella del componente de la red "R8:/5AE37D8E:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R8:/5AE37D8E" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R8:/5AE37D8E" el nombre de la red del pin "1" de "" a "Net-(C2-Pad1)".
+
+Cambiando del componente "R8:/5AE37D8E" el nombre de la red del pin "2" de "" a "Net-(J1-Pad2)".
+
+Información: Comprobando la huella del componente de la red "R9:/5AE381BB:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R9:/5AE381BB" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R9:/5AE381BB" el nombre de la red del pin "1" de "" a "Net-(Q1-Pad2)".
+
+Cambiando del componente "R9:/5AE381BB" el nombre de la red del pin "2" de "" a "VBUS".
+
+Información: Comprobando la huella del componente de la red "R10:/5AE3822E:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R10:/5AE3822E" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R10:/5AE3822E" el nombre de la red del pin "1" de "" a "GND".
+
+Cambiando del componente "R10:/5AE3822E" el nombre de la red del pin "2" de "" a "Net-(Q1-Pad2)".
+
+Información: Comprobando la huella del componente de la red "R11:/5AE38292:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R11:/5AE38292" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R11:/5AE38292" el nombre de la red del pin "1" de "" a "Net-(C3-Pad1)".
+
+Cambiando del componente "R11:/5AE38292" el nombre de la red del pin "2" de "" a "Net-(Q2-Pad3)".
+
+Información: Comprobando la huella del componente de la red "R12:/5AE3A8EC:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R12:/5AE3A8EC" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R12:/5AE3A8EC" el nombre de la red del pin "1" de "" a "/BOOT0".
+
+Cambiando del componente "R12:/5AE3A8EC" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "R13:/5AE3F8EE:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R13:/5AE3F8EE" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R13:/5AE3F8EE" el nombre de la red del pin "1" de "" a "/BOOT0".
+
+Cambiando del componente "R13:/5AE3F8EE" el nombre de la red del pin "2" de "" a "Net-(R13-Pad2)".
+
+Información: Comprobando la huella del componente de la red "R14:/5AE3FC79:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R14:/5AE3FC79" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R14:/5AE3FC79" el nombre de la red del pin "1" de "" a "VDD".
+
+Cambiando del componente "R14:/5AE3FC79" el nombre de la red del pin "2" de "" a "Net-(R14-Pad2)".
+
+Información: Comprobando la huella del componente de la red "R15:/5AEA1DDB:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R15:/5AEA1DDB" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R15:/5AEA1DDB" el nombre de la red del pin "1" de "" a "Net-(D2-Pad1)".
+
+Cambiando del componente "R15:/5AEA1DDB" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "R16:/5AEB210D:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R16:/5AEB210D" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R16:/5AEB210D" el nombre de la red del pin "1" de "" a "Net-(D3-Pad1)".
+
+Cambiando del componente "R16:/5AEB210D" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "R17:/5AEB4A43:Resistors_SMD:R_0805".
+
+Añadiendo del nuevo componente "R17:/5AEB4A43" la huella "Resistors_SMD:R_0805".
+
+Cambiando del componente "R17:/5AEB4A43" el nombre de la red del pin "1" de "" a "Net-(R17-Pad1)".
+
+Cambiando del componente "R17:/5AEB4A43" el nombre de la red del pin "2" de "" a "GND".
+
+Información: Comprobando la huella del componente de la red "SV1:/5AEAA4AD:Pin_Headers:Pin_Header_Straight_2x08_Pitch2.54mm".
+
+Añadiendo del nuevo componente "SV1:/5AEAA4AD" la huella "Pin_Headers:Pin_Header_Straight_2x08_Pitch2.54mm".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "1" de "" a "GND".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "2" de "" a "/36".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "3" de "" a "/34".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "4" de "" a "/32".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "5" de "" a "/30".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "6" de "" a "/28".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "7" de "" a "/26".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "8" de "" a "/24".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "9" de "" a "/23".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "10" de "" a "/25".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "11" de "" a "/27".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "12" de "" a "/29".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "13" de "" a "/31".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "14" de "" a "/33".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "15" de "" a "/35".
+
+Cambiando del componente "SV1:/5AEAA4AD" el nombre de la red del pin "16" de "" a "/37".
+
+Información: Comprobando la huella del componente de la red "SW1:/5AE37913:Buttons_Switches_SMD:SW_SPST_PTS645".
+
+Añadiendo del nuevo componente "SW1:/5AE37913" la huella "Buttons_Switches_SMD:SW_SPST_PTS645".
+
+Cambiando del componente "SW1:/5AE37913" el nombre de la red del pin "2" de "" a "/JTAG-TRST".
+
+Cambiando del componente "SW1:/5AE37913" el nombre de la red del pin "1" de "" a "Net-(R4-Pad1)".
+
+Cambiando del componente "SW1:/5AE37913" el nombre de la red del pin "1" de "" a "Net-(R4-Pad1)".
+
+Cambiando del componente "SW1:/5AE37913" el nombre de la red del pin "2" de "" a "/JTAG-TRST".
+
+Información: Comprobando la huella del componente de la red "SW2:/5AE3FAA7:Buttons_Switches_SMD:SW_SPST_PTS645".
+
+Añadiendo del nuevo componente "SW2:/5AE3FAA7" la huella "Buttons_Switches_SMD:SW_SPST_PTS645".
+
+Cambiando del componente "SW2:/5AE3FAA7" el nombre de la red del pin "2" de "" a "Net-(R14-Pad2)".
+
+Cambiando del componente "SW2:/5AE3FAA7" el nombre de la red del pin "1" de "" a "/BOOT0".
+
+Cambiando del componente "SW2:/5AE3FAA7" el nombre de la red del pin "1" de "" a "/BOOT0".
+
+Cambiando del componente "SW2:/5AE3FAA7" el nombre de la red del pin "2" de "" a "Net-(R14-Pad2)".
+
+Información: Comprobando la huella del componente de la red "SW3:/5AEB4A3D:Buttons_Switches_SMD:SW_SPST_PTS645".
+
+Añadiendo del nuevo componente "SW3:/5AEB4A3D" la huella "Buttons_Switches_SMD:SW_SPST_PTS645".
+
+Cambiando del componente "SW3:/5AEB4A3D" el nombre de la red del pin "2" de "" a "/37".
+
+Cambiando del componente "SW3:/5AEB4A3D" el nombre de la red del pin "1" de "" a "Net-(R17-Pad1)".
+
+Cambiando del componente "SW3:/5AEB4A3D" el nombre de la red del pin "1" de "" a "Net-(R17-Pad1)".
+
+Cambiando del componente "SW3:/5AEB4A3D" el nombre de la red del pin "2" de "" a "/37".
+
+Información: Comprobando la huella del componente de la red "U1:/5AE9ED57:Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm".
+
+Añadiendo del nuevo componente "U1:/5AE9ED57" la huella "Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "1" de "" a "/VBAT".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "2" de "" a "/21".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "3" de "" a "/22".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "4" de "" a "/23".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "5" de "" a "/OSC1".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "6" de "" a "/OSC2".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "7" de "" a "/JTAG-TRST".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "8" de "" a "/15".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "9" de "" a "/16".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "10" de "" a "/17".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "11" de "" a "/18".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "12" de "" a "GND".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "13" de "" a "/VDDA".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "14" de "" a "/2".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "15" de "" a "/3".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "16" de "" a "/1".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "17" de "" a "/0".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "18" de "" a "GND".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "19" de "" a "VDD".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "20" de "" a "/10".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "21" de "" a "/13".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "22" de "" a "/12".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "23" de "" a "/11".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "24" de "" a "/19".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "25" de "" a "/20".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "26" de "" a "/27".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "27" de "" a "/28".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "28" de "" a "GND".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "29" de "" a "/29".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "30" de "" a "/30".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "31" de "" a "GND".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "32" de "" a "VDD".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "33" de "" a "/31".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "34" de "" a "/32".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "35" de "" a "/33".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "36" de "" a "/34".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "37" de "" a "/35".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "38" de "" a "/36".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "39" de "" a "/37".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "40" de "" a "Net-(R13-Pad2)".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "41" de "" a "/6".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "42" de "" a "/7".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "43" de "" a "/8".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "44" de "" a "Net-(C2-Pad1)".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "45" de "" a "Net-(C3-Pad1)".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "46" de "" a "/JTAG-TMS".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "47" de "" a "GND".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "48" de "" a "VDD".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "49" de "" a "/JTAG-TCK".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "50" de "" a "/JTAG-TDI".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "51" de "" a "/26".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "52" de "" a "/USB_P".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "53" de "" a "/DISC".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "54" de "" a "/25".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "55" de "" a "/JTAG-TDO".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "56" de "" a "/JTAG-TRST".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "57" de "" a "/4".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "58" de "" a "/5".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "59" de "" a "/9".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "60" de "" a "/BOOT0".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "61" de "" a "/14".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "62" de "" a "/24".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "63" de "" a "GND".
+
+Cambiando del componente "U1:/5AE9ED57" el nombre de la red del pin "64" de "" a "VDD".
+
+Información: Comprobando la huella del componente de la red "U2:/5AE4C68A:TO_SOT_Packages_SMD:SOT-223-3Lead_TabPin2".
+
+Error: No se puede añadir el nuevo componente "U2:/5AE4C68A" ya que le falta la huella "TO_SOT_Packages_SMD:SOT-223-3Lead_TabPin2".
+
+Información: Comprobando la huella del componente de la red "Y1:/5AE41DE6:Crystals:Crystal_SMD_HC49-SD".
+
+Añadiendo del nuevo componente "Y1:/5AE41DE6" la huella "Crystals:Crystal_SMD_HC49-SD".
+
+Cambiando del componente "Y1:/5AE41DE6" el nombre de la red del pin "1" de "" a "/OSC1".
+
+Cambiando del componente "Y1:/5AE41DE6" el nombre de la red del pin "2" de "" a "/OSC2".
+
+Información: Comprobando la huella del componente de la red "Y2:/5AEAD8DB:Crystals:Crystal_DS26_d2.0mm_l6.0mm_Horizontal".
+
+Añadiendo del nuevo componente "Y2:/5AEAD8DB" la huella "Crystals:Crystal_DS26_d2.0mm_l6.0mm_Horizontal".
+
+Cambiando del componente "Y2:/5AEAD8DB" el nombre de la red del pin "1" de "" a "/21".
+
+Cambiando del componente "Y2:/5AEAD8DB" el nombre de la red del pin "2" de "" a "/22".
+
