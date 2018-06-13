@@ -31,7 +31,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:stm_angosto
 LIBS:ucc-duino-cache
 EELAYER 25 0
 EELAYER END
@@ -961,17 +960,6 @@ F 3 "" H 6000 2700 60  0001 C CNN
 $EndComp
 Text Notes 7100 7000 0    60   ~ 0
 Falta: \n_Elegir cristal y calcular capacitores de carga
-$Comp
-L Conn_02x08_Counter_Clockwise SV1
-U 1 1 5AEAA4AD
-P 10350 5100
-F 0 "SV1" H 10400 5500 50  0000 C CNN
-F 1 "Con2x8CCw" H 10400 4600 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x08_Pitch2.54mm" H 10350 5100 50  0001 C CNN
-F 3 "" H 10350 5100 50  0001 C CNN
-	1    10350 5100
-	1    0    0    -1  
-$EndComp
 Text Label 10050 4900 2    60   ~ 0
 36
 Text Label 10050 5000 2    60   ~ 0
@@ -1012,17 +1000,6 @@ F 2 "" H 9900 4800 50  0001 C CNN
 F 3 "" H 9900 4800 50  0001 C CNN
 	1    9900 4800
 	0    1    1    0   
-$EndComp
-$Comp
-L Conn_02x04_Counter_Clockwise J_JTAG1
-U 1 1 5AEB0CC9
-P 10300 4100
-F 0 "J_JTAG1" H 10350 4300 50  0000 C CNN
-F 1 "Con2x4CCw" H 10350 3800 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x04_Pitch2.54mm" H 10300 4100 50  0001 C CNN
-F 3 "" H 10300 4100 50  0001 C CNN
-	1    10300 4100
-	1    0    0    -1  
 $EndComp
 $Comp
 L VDD #PWR026
@@ -1929,5 +1906,27 @@ F 2 "" H 2350 2000 50  0001 C CNN
 F 3 "" H 2350 2000 50  0001 C CNN
 	1    2350 2000
 	1    0    0    -1  
+$EndComp
+$Comp
+L Conn_02x08_Odd_Even SV1
+U 1 1 5B216F5F
+P 10450 5200
+F 0 "SV1" H 10500 5600 50  0000 C CNN
+F 1 "Con2x8Odd" H 10500 4700 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x08_Pitch2.54mm" H 10450 5200 50  0001 C CNN
+F 3 "" H 10450 5200 50  0001 C CNN
+	1    10450 5200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Conn_02x04_Odd_Even J-JTAG1
+U 1 1 5B21B365
+P 10400 4200
+F 0 "J-JTAG1" H 10450 4400 50  0000 C CNN
+F 1 "Con2x4Odd" H 10450 3900 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x04_Pitch2.54mm" H 10400 4200 50  0001 C CNN
+F 3 "" H 10400 4200 50  0001 C CNN
+	1    10400 4200
+	-1   0    0    1   
 $EndComp
 $EndSCHEMATC
