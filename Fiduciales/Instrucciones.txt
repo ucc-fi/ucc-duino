@@ -1,0 +1,15 @@
+-  Copiar el archivo, "FIDUCIALES_TEST_KiCad_mod",  en la carpeta donde el programa
+  almacena los modulos para PCB.
+   Usualmente es:  -....KiCad/Share/ Modules
+
+- Abrir el PCB al que queremos colocarle fiduciales.
+
+- Cargar los fiduciales como un componente cualquiera en el PCB, seleccionando uno de los siguientes tipos de la nueva librería: 
+	
+	- FIDUCIAL_TEST_PCB_1C.  para los fiduciales globales de una tarjeta de una capa.
+	- FIDUCIAL_TEST_PCB_2C,  para los fiduciales globales de una tarjeta de dos o más capas.
+	
+	
+Nota: 	Los fiduciales se deben colocar en el lugar disponible mas próximo a cada esquina de la tarjeta. También podemos 
+	colocar los fiduciales dentro de un polígono de cobre. Al regenerarlo se respetarán las distancias  de aislamiento que
+	estén expresadas en las reglas de diseño.
